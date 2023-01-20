@@ -1,5 +1,5 @@
 {
-  "movie": [
+  "posts": [
     { "id": 1, "title": "The Carnage", "image" : "https://media.kg-portal.ru/movies/p/paleblueeye/posters/paleblueeye_1t_2x.jpg" },
     { "id": 2, "title": "Haeday", "image" : "https://media.kg-portal.ru/movies/p/paleblueeye/posters/paleblueeye_1t_2x.jpg" },
     { "id": 3, "title": "Home Pulang", "image" : "https://media.kg-portal.ru/movies/p/paleblueeye/posters/paleblueeye_1t_2x.jpg" }
